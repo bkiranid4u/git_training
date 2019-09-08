@@ -1,0 +1,6 @@
+# ignores all the files having extension starting with a 
+*.a 
+#Track only selcted files with extension starting with a 
+!lib.a
+# Ignore the TODO file only 
+/TODO
